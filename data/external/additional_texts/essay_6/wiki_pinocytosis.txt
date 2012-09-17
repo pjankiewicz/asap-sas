@@ -1,0 +1,7 @@
+Pinocytosis
+From Wikipedia, the free encyclopedia
+
+
+Pinocytosis
+In cellular biology, pinocytosis ("cell-drinking", "bulk-phase pinocytosis", "non-specific, non-absorptive pinocytosis", "fluid endocytosis") is a form of endocytosis in which small particles are brought into the cell, forming an invagination, and then suspended within small vesicles (pinocytotic vesicles) that subsequently fuse with lysosomes to hydrolyze, or to break down, the particles. This process requires a lot of energy in the form of adenosine triphosphate, the chemical compound is mostly used as energy in the majority of cells. Pinocytosis is used primarily for the absorption of extracellular fluids (ECF), and, in contrast to phagocytosis, generates very small vesicles. Unlike receptor-mediated endocytosis, pinocytosis is nonspecific in the substances that it transports. The cell takes in surrounding fluids, including all solutes present. Pinocytosis also works as phagocytosis, the only difference being that phagocytosis is specific in the substances it transports. Phagocytosis engulfs whole particles, which are later broken down by enzymes, such as cathepsins, and absorbed into the cells. Pinocytosis, on the other hand, is when the cell engulfs already-dissolved or broken-down food.
+In contrast, molecule-specific endocytosis is called receptor-mediated endocytosis.

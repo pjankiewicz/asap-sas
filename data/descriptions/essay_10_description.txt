@@ -1,0 +1,30 @@
+Brandi and Jerry did the following controlled experiment to find out how the color of an object affects its temperature.
+
+Question: What is the effect of different lid colors on the air temperature inside a glass jar exposed to a lamp?
+
+Hypothesis: The darker the lid color, the greater the increase in air temperature in the glass jar, because darker colors absorb more energy.
+
+Materials:
+glass jar
+lamp
+four colored lids: black, dark gray, light gray, and white
+thermometer
+meterstick
+stopwatch
+
+Controlled Experiment Setup
+ 
+Procedure:
+Put the black lid with the attached thermometer on the glass jar.
+Make sure the starting temperature inside the jar is 24° C.
+Place lamp 5 centimeters away from the lid and turn on the lamp.
+After 10 minutes measure the air temperature inside the glass jar and record as Trial 1.
+Turn off lamp and wait until the air in the jar returns to the starting temperature.
+Repeat steps 2 through 5 for Trials 2 and 3.
+Repeat steps 1 through 6 for the dark gray, light gray, and white lids.
+Calculate and record the average air temperature for each lid color.
+
+Data: 
+ 
+Brandi and Jerry were designing a doghouse. Use the results from the experiment to describe the best paint color for the doghouse.
+

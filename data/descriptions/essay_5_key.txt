@@ -1,0 +1,8 @@
+mRNA exits nucleus via nuclear pore
+mRNA travels through the cytoplasm to the ribosome or enters the rough endoplasmic reticulum
+mRNA bases are read in triplets called codons by rRNA
+tRNA carrying the complementary U=A C+G anticodon recognizes the complementary codon of the mRNA
+The corresponding amino acids on the other end of the tRNA are bonded to adjacent tRNA’s amino acids
+A new corresponding amino acid is added to the tRNA
+Amino acids are linked together to make a protein beginning with a START codon in the P site initiation
+Amino acids continue to be linked until a STOP codon is read on the mRNA in the A site elongation and termination

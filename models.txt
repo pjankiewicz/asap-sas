@@ -1,0 +1,23 @@
+for (data.version in data1, data2, data3 ...) {
+   # gbm models
+   for (interaction.depth in 1:23) {
+      for (shrinkage in c(0.01,0.05,0.1) {
+          modelfile = ...
+          if (modelfile in models.to.create) {
+              create model
+          }
+      }
+   }
+
+   # svm
+   for (cost in 1:4) {
+      for (nu in c(0.01,0.05,0.1) {
+          modelfile = ...
+          if (modelfile in models.to.create) {
+              create model
+          }
+      }
+   }
+
+   # etc
+}

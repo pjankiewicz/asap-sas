@@ -1,0 +1,44 @@
+Phagocytosis
+From Wikipedia, the free encyclopedia
+
+
+Phagocytosis in three steps:
+1. Unbound phagocyte surface receptors do not trigger phagocytosis.
+2. Binding of receptors causes them to cluster.
+3. Phagocytosis is triggered and the particle is taken up by the phagocyte.
+Phagocytosis (from Ancient Greek φαγεῖν (phagein) , meaning "to devour", κύτος, (kytos) , meaning "cell", and -osis, meaning "process") is the cellular process of engulfing solid particles by the cell membrane to form an internal phagosome by phagocytes and protists. Phagocytosis is a specific form of endocytosis involving the vesicular internalization of solids such as bacteria, and is, therefore, distinct from other forms of endocytosis such as the vesicular internalization of various liquids. Phagocytosis is involved in the acquisition of nutrients for some cells, and, in the immune system, it is a major mechanism used to remove pathogens and cell debris. Bacteria, dead tissue cells, and small mineral particles are all examples of objects that may be phagocytosed.
+The process is homologous to eating only at the level of single-celled organisms; in multicellular animals, the process has been adapted to eliminate debris and pathogens, as opposed to taking in fuel for cellular processes, except in the case of the Trichoplax.
+Contents  [hide] 
+1 In immune system
+2 In apoptosis
+3 In protists
+4 See also
+5 References
+6 External links
+[edit]In immune system
+
+
+
+Scanning electron micrograph of a phagocyte (yellow, right) phagocytosing anthrax bacilli (orange, left)
+Further information: Phagocyte
+Phagocytosis in mammalian immune cells is activated by attachment to Pathogen-associated molecular patterns (PAMPS), which leads to NF-κB activation. Opsonins such as C3b and antibodies can act as attachment sites and aid phagocytosis of pathogens.[1]
+Engulfment of material is facilitated by the actin-myosin contractile system. The phagosome of ingested material is then fused with the lysosome, leading to degradation.
+Degradation can be oxygen-dependent or oxygen-independent.
+Oxygen-dependent degradation depends on NADPH and the production of reactive oxygen species. Hydrogen peroxide and myeloperoxidase activate a halogenating system, which leads to the creation of hypochlorite and the destruction of bacteria.[2]
+Oxygen-independent degradation depends on the release of granules, containing proteolytic enzymes such as defensins, lysozyme, and cationic proteins. Other antimicrobial peptides are present in these granules, including lactoferrin, which sequesters iron to provide unfavourable growth conditions for bacteria.
+It is possible for cells other than dedicated phagocytes (such as dendritic cells) to engage in phagocytosis.[3]
+[edit]In apoptosis
+
+Following apoptosis, the dying cells need to be taken up into the surrounding tissues by macrophages in a process called efferocytosis. One of the features of an apoptotic cell is the presentation of a variety of intracellular molecules on the cell surface, such as calreticulin, phosphatidylserine (From the inner layer of the plasma membrane), annexin A1, and oxidised LDL. These molecules are recognised by receptors on the cell surface of the macrophage such as the phosphatidylserine receptor or by soluble (free floating) receptors such as thrombospondin 1, Gas-6, and MFG-E8, which themselves then bind to other receptors on the macrophage such as CD36 and alpha-v beta-3 integrin. Defects in apoptotic cell clearance is usually associated with impaired phagocytosis of macropghages. Accumulation of apoptotic cell remnants often causes autoimmune disorders, thus pharmacological potentiation of phagocytosis has a medical potential in treatment of certain forms of autoimmune disorders[4][5][6][7].
+Additional information on phagocytosis of apoptotic cells could be found in the book: “Phagocytosis of dying cells: from molecular mechanisms to human diseases” (Eds DV Krysko and P Vandenabeele, 2009, Springer).
+[edit]In protists
+
+
+
+Trophozoites of Entamoeba histolytica with ingested erythrocytes
+In many protists, phagocytosis is used as a means of feeding, providing part or all of their nourishment. This is called phagotrophic nutrition, as distinguished from osmotrophic nutrition, which takes place by absorption.
+In some, such as amoeba, phagocytosis takes place by surrounding the target object with pseudopods, as in animal phagocytes. In humans, Entamoeba histolytica can phagocytose red blood cells.[8] This process is known as "erythrophagocystosis", and is considered the only reliable way to distinguish Entamoeba histolytica from noninvasive species such as Entamoeba dispar.[9]
+Ciliates also engage in phagocytosis.[10] In ciliates there is a specialized groove or chamber in the cell where phagocytosis takes place, called the cytostome or mouth.
+The resulting phagosome may be merged with lysosomes containing digestive enzymes, forming a phagolysosome. The food particles will then be digested, and the released nutrients are diffused or transported into the cytosol for use in other metabolic processes.
+Mixotrophy can involve phagotrophic nutrition and phototrophic nutrition.[11]
+[edit]

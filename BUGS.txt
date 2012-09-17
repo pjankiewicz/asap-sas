@@ -1,0 +1,21 @@
+
+
+1g_prepare_features.py (lines 82 - 84) - FLOAT DIVISION ERROR
+
+was
+
+essay_infovalue_length_raw = essay_infovalue - description_infovalue
+essay_infovalue_length_norm = (essay_infovalue - description_infovalue) / len(essay_text)
+essay_infovalue_length_norm2 = (description_infovalue - essay_infovalue) / (description_infovalue - essay_infovalue_dummy)
+
+should be
+
+if len(essay_text) != 0:
+    essay_infovalue_length_norm = (essay_infovalue - description_infovalue) / len(essay_text)
+else:
+    essay_infovalue_length_norm = 0
+    
+if (description_infovalue - essay_infovalue_dummy) != 0:
+    essay_infovalue_length_norm2 = (description_infovalue - essay_infovalue) / (description_infovalue - essay_infovalue_dummy)
+else:
+    essay_infovalue_length_norm2 = 0

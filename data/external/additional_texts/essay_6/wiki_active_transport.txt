@@ -1,0 +1,66 @@
+Active transport
+From Wikipedia, the free encyclopedia
+  (Redirected from Active Transport)
+This article is about transport in cellular biology. For human transport systems, see active transportation.
+
+It has been suggested that Primary active transport, Secondary active transport and Co-transport be merged into this article or section. (Discuss) Proposed since September 2011.
+Active transport is the movement of a substance across a cell membrane against its concentration gradient (from low to high concentration). In all cells, this is usually concerned with accumulating high concentrations of molecules that the cell needs, such as ions, glucose and amino acids. If the process uses chemical energy, such as from adenosine triphosphate (ATP), it is termed primary active transport. Secondary active transport involves the use of an electrochemical gradient. Active transport uses energy, unlike passive transport, which does not use any type of energy. Active transport is a good example of a process for which cells require energy. Examples of active transport include the uptake of glucose in the intestines in humans and the uptake of mineral ions into root hair cells of plants. [1]
+Contents  [hide] 
+1 Details
+2 Primary active transport
+3 ATP using primary active transport types
+4 Secondary active transport
+5 Antiport
+6 Symport
+7 Examples
+8 Endocytosis
+9 See also
+10 External links
+11 References
+[edit]Details
+
+Specialized trans-membrane proteins recognize the substance and allows it access[2] (or, in the case of secondary transport, expend energy on forcing it) to cross the membrane when it otherwise would not, either because it is one to which the phospholipid bilayer of the membrane is impermeable or because it is moved in the direction of the concentration gradient. The last case, known as primary active transport, and the proteins involved in it as pumps, normally uses the chemical energy of ATP. The other cases, which usually derive their energy through exploitation of an electrochemical gradient, are known as secondary active transport and involve pore-forming proteins that form channels through the cell membrane.
+Sometimes the system transports one substance in one direction at the same time as cotransporting another substance in the other direction. This is called antiport. Symport is the name if two substrates are being transported in the same direction across the membrane. Antiport and symport are associated with secondary active transport, meaning that one of the two substances are transported in the direction of their concentration gradient utilizing the energy derived from the transport of second substance (mostly Na+, K+ or H+) down its concentration gradient.
+Particles moving from areas of low concentration to areas of high concentration[3] (i.e., in the opposite direction as the concentration gradient) require specific trans-membrane carrier proteins. These proteins have receptors that bind to specific molecules (e.g., glucose) and thus transport them into the cell. Because energy is required for this process, it is known as 'active' transport. Examples of active transport include the transportation of sodium out of the cell and potassium into the cell by the sodium-potassium pump. Active transport often takes place in the internal lining of the small intestine.
+Plants need to absorb mineral salts from the soil or other sources, but these salts exist in very dilute solution. Active transport enables these cells to take up salts from this dilute solution against the direction of the concentration gradient.
+[edit]Primary active transport
+
+
+
+The action of the sodium-potassium pump is an example of primary active transport.
+Primary active transport, also called direct active transport, directly uses energy to transport molecules across a membrane.[4]
+Most of the enzymes that perform this type of transport are transmembrane ATPases. A primary ATPase universal to all life is the sodium-potassium pump, which helps to maintain the cell potential. Other sources of energy for Primary active transport are redox energy and photon energy (light). An example of primary active transport using Redox energy is the mitochondrial electron transport chain that uses the reduction energy of NADH to move protons across the inner mitochondrial membrane against their concentration gradient. An example of primary active transport using light energy are the proteins involved in photosynthesis that use the energy of photons to create a proton gradient across the thylakoid membrane and also to create reduction power in the form of NADPH.
+[edit]ATP using primary active transport types
+
+P-type ATPase: sodium potassium pump, calcium pump, proton pump
+F-ATPase: mitochondrial ATP synthase, chloroplast ATP synthase
+V-ATPase: vacuolar ATPase
+ABC (ATP binding cassette) transporter: MDR, CFTR, etc.
+[edit]Secondary active transport
+
+
+
+Secondary active transport
+In secondary active transport or co-transport, energy is used to transport molecules across a membrane; however, in contrast to primary active transport, there is no direct coupling of ATP; instead, the electrochemical potential difference created by pumping ions out of the cell is used.[5]
+The two main forms of this are antiport and symport.
+[edit]Antiport
+
+In antiport two species of ion or other solutes are pumped in opposite directions across a membrane. One of these species is allowed to flow from high to low concentration which yields the entropic energy to drive the transport of the other solute from a low concentration region to a high one. An example is the sodium-calcium exchanger or antiporter, which allows three sodium ions into the cell to transport one calcium out.
+Many cells also possess a calcium ATPase, which can operate at lower intracellular concentrations of calcium and sets the normal or resting concentration of this important second messenger. But the ATPase exports calcium ions more slowly: only 30 per second versus 2000 per second by the exchanger. The exchanger comes into service when the calcium concentration rises steeply or "spikes" and enables rapid recovery. This shows that a single type of ion can be transported by several enzymes, which need not be active all the time (constitutively), but may exist to meet specific, intermittent needs.
+[edit]Symport
+
+Symport uses the downhill movement of one solute species from high to low concentration to move another molecule uphill from low concentration to high concentration (against its electrochemical gradient).
+An example is the glucose symporter SGLT1, which co-transports one glucose (or galactose) molecule into the cell for every two sodium ions it imports into the cell. This symporter is located in the small intestines, trachea, heart, brain, testis, and prostate. It is also located in the S3 segment of the proximal tubule in each nephron in the kidneys.[6] Its mechanism is exploited in glucose rehydration therapy and defects in SGLT1 prevent effective reabsorption of glucose, causing familial renal glucosuria.[7]
+[edit]Examples
+
+Water, ethanol, and chloroform exemplify simple molecules that do not require active transport to cross a membrane.
+Metal ions, such as Na+, K+, Mg2+, or Ca2+, require ion pumps or ion channels to cross membranes and distribute through the body
+The pump for sodium and potassium is called sodium-potassium pump or Na +/K+-ATPase
+In the epithelial cells of the stomach, gastric acid is produced by hydrogen potassium ATPase, an electrogenic pump[citation needed]
+[edit]Endocytosis
+
+Further information: Endocytosis
+Endocytosis is the process by which cells take in materials. The cellular membrane folds around the desired materials outside the cell.[8] The ingested particle becomes trapped within a pouch, vacuole or inside the cytoplasm. Often enzymes from lysosomes are then used to digest the molecules absorbed by this process.
+Biologists distinguish two main types of endocyctosis: pinocytosis and phagocytosis.[9]
+In pinocytosis, cells engulf liquid particles (in humans this process occurs in the small intestine, cells there engulf fat droplets).[10]
+In phagocytosis, cells engulf solid particles.[11]
