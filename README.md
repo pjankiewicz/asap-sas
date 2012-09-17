@@ -1,3 +1,8 @@
+Code for 5th place in ASAP-SAS competition 
+
+License GPLv3: http://www.gnu.org/copyleft/gpl.html
+Authors: Jonathan Peters, Paweł Jankiewicz
+
 1. Installation.
    - Python 2.6.6+ Libraries needed: numpy, nltk*, pyaspell
    - R 2.14.1+ Libraries needed (as in config.r file)
